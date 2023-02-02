@@ -1304,10 +1304,11 @@ figcaption {
 }
 
 .heading.small {
+  font-family: Inconsolata, monospace;
   color: #667085;
   font-size: 24px;
   line-height: 1.5;
-  text-align: left;
+  text-align: center;
   letter-spacing: 0px;
 }
 
@@ -2763,7 +2764,7 @@ figcaption {
   }
 
   .heading.small {
-    text-align: left;
+    text-align: center;
   }
 
   .heading.medium {
